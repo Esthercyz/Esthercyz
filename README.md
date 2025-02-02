@@ -1,10 +1,9 @@
 ## Hi there 👋 I'm Esther!
 
-- 👨‍🎓 I’m currently studying SoftWare Engineering in ECNU
-- :blue_book: I’m currently learning Everything I like.
+- 👨‍🎓 I’m currently a master student majoring in **Software Engineering** in ECNU
+- :notebook: My research direction is **AI-assisted Network Optimization**
 - 🤩 I love **ping-pong, guzheng, swimming**
 - 📫 How to reach me: 51265902023@stu.ecnu.edu.cn
-
 
   
 ### My Skill Set
